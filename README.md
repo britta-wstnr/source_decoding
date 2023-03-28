@@ -6,7 +6,7 @@ Britta U. Westner & Jean-Rémi King
 ## Repository
 This repository contains the simulation and analysis code for the project _The best of two worlds: Decoding and source-reconstructing M/EEG oscillatory activity with a unique model_.
 
-This paper is soon available as a [preprint]().
+This paper is soon available as a [preprint](https://doi.org/10.1101/2023.03.24.534080).
 
 ## Code
 
